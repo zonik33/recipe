@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { recipes, categories } from "./data/recipes";
 import FoodIllustration from "./components/FoodIllustration";
 import CookingGuide from "./components/CookingGuide";
